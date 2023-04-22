@@ -30,7 +30,7 @@ button:hover {
   cursor: pointer;
 }
 footer {
-  max-width: 300px;
+  max-width: 600px;
   text-align: center;
   padding: 10px 5px;
   margin: 0 auto;
@@ -39,6 +39,9 @@ footer {
   font-weight: bold;
   color: rgb(236, 208, 120, 0.6);
   background-color: rgb(3, 69, 3);
+}
+a {
+  color: rgb(236, 208, 120, 0.6);
 }
 p {
   max-width: 900px;
@@ -49,7 +52,9 @@ p {
 
   color: rgb(236, 208, 120, 0.7);
 }
-
+a {
+  color: ;
+}
 .photos {
   margin: 50px 40px;
   display: grid;
