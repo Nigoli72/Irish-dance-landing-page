@@ -115,6 +115,9 @@ a {
   color: rgb(3, 69, 3);
   background-color: rgb(236, 208, 120, 0.6);
 }
+.dark a {
+  color: rgb(3, 69, 3);
+}
 .dark h1 {
   color: rgb(4, 84, 4);
   background: rgb(236, 208, 120, 0.6);
